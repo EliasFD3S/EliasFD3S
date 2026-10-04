@@ -35,7 +35,8 @@ Reverse engineering of the original 2003 x86 executable, reconstructing native s
 ### Apex Studio
 Co-founded an independent game studio after several years of game modding.
 
-Worked on vehicle simulation, gameplay systems and development tooling for Apex Point, a commercial automotive game that generated over $1M in lifetime revenue.
+Worked on vehicle simulation, gameplay systems and development tooling for Apex Point, a commercial racing game which sold at over 77k copies.
+Working on CRASHED! , a mobile racing game.
 
 ## Languages & Technologies
 
